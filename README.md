@@ -1,5 +1,7 @@
 # Solana Wallet Integration with Next.js
 
+[Solana Wallet App]("https://sqlcontract.vercel.app/")
+
 A simple Next.js application that demonstrates Solana wallet integration using the Solana Wallet Adapter. This project connects to the Solana mainnet and displays wallet information.
 
 ## Features
